@@ -1,0 +1,18 @@
+p{text-align: center;font-style: oblique;font-size: 25px;}
+box{
+		background-color: #ffffff;
+   		width: 300px;
+   		border: 5px solid black;
+    	padding: 25px;
+    	font-style: oblique;
+    	border-radius: 5px;
+    	color: black;
+    	margin-left: auto;
+    	margin-right: auto;
+    	display: block;
+    	opacity: 0.6;
+    	text-align: center;
+	}
+body {
+	background-image: url("bg.jpg");
+}
